@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { AiOutlineSearch } from 'react-icons/ai';
 import { IoMdNotificationsOutline } from 'react-icons/io';
 import { AiOutlineUserAdd } from 'react-icons/ai';
+import React from 'react';
 
 import logoDesk1x from '../../assets/images/LogoDesk@1x.png';
 import logoDesk2x from '../../assets/images/LogoDesk@2x.png';
