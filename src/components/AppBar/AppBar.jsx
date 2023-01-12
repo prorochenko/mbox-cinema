@@ -41,7 +41,7 @@ const AppBar = () => {
         <NavLink to="/">
           <picture>
             <source
-              srcset={`${logoDesk1x} 1x,
+              srcsset={`${logoDesk1x} 1x,
                   ${logoDesk2x} 2x`}
               type="image/png"
               media="(min-width: 1280px)"
